@@ -1,0 +1,96 @@
+.userName
+{
+  font-family:Ebrima;
+  font-weight:Lighter;
+}
+
+.header
+{
+background-color:#7908cd;
+color:#ffffff;
+padding: 5px 25px 5px 25px
+}
+
+.profilePhoto
+{
+margin-top: 2%;
+weidht: 50px;
+width: 50px;
+border-radius: 50%
+}
+
+.homePage
+{
+
+}
+
+.homePageTitle
+{
+font-family: Ebrima;
+margin-left: 25px		
+}
+
+.balance
+{
+font-family: Ebrima;
+margin-left: 30px
+}
+
+.eye
+{
+  height: 31px;
+  width: 31px;
+  margin-left: 60%;
+align: middle
+}
+
+.int
+{
+height: 25px;
+width: 25px;
+margin-left: 5%;
+}
+
+.msg
+{
+height: 25px;
+width: 25px;
+margin-left: 5%;
+}
+
+.next
+{
+height: 25px;
+width: 25px;
+padding-right: 10% 
+}
+
+.iconsNu 
+{
+
+}
+
+.operationIcons 
+{
+align: center;
+margin-left: 30px;
+text-align: center;
+overflow-x: scroll
+}
+
+.operationIcon 
+{
+width: 100px;
+height: 100px;
+border-radius: 50%;
+background-color: #eff0f0;
+float: left;
+margin: 3%
+}
+
+.pix
+{
+height: 30px;
+width: 30px;
+margin-top: 35%
+}
